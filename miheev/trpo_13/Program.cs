@@ -35,4 +35,5 @@ int InputB()
 int Addition(int a, int b) => a + b;
 int Subtraction(int x, int y) => x - y;
 int Multiplication(int a, int b) => a*b;
+double Division(int a, int b) => (double)(a / b);
 PrintMenu();
