@@ -20,4 +20,16 @@ int InputA()
         Console.WriteLine("Введите целое число");
     } while (true);
 }
+int InputB()
+{
+    do
+    {
+        Console.WriteLine("Введите B");
+        if (int.TryParse(Console.ReadLine(), out int b))
+        {
+            return b;
+        }
+        Console.WriteLine("Введите целое число");
+    } while (true);
+}
 PrintMenu();
