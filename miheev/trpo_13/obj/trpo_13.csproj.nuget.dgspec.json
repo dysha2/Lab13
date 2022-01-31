@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dysha\\laba13\\miheev\\trpo_13\\trpo_13.csproj": {}
+    "C:\\Users\\307-11\\Desktop\\prakt13\\calc2\\Lab13\\miheev\\trpo_13\\trpo_13.csproj": {}
   },
   "projects": {
-    "C:\\dysha\\laba13\\miheev\\trpo_13\\trpo_13.csproj": {
+    "C:\\Users\\307-11\\Desktop\\prakt13\\calc2\\Lab13\\miheev\\trpo_13\\trpo_13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dysha\\laba13\\miheev\\trpo_13\\trpo_13.csproj",
+        "projectUniqueName": "C:\\Users\\307-11\\Desktop\\prakt13\\calc2\\Lab13\\miheev\\trpo_13\\trpo_13.csproj",
         "projectName": "trpo_13",
-        "projectPath": "C:\\dysha\\laba13\\miheev\\trpo_13\\trpo_13.csproj",
-        "packagesPath": "C:\\Users\\307-12\\.nuget\\packages\\",
-        "outputPath": "C:\\dysha\\laba13\\miheev\\trpo_13\\obj\\",
+        "projectPath": "C:\\Users\\307-11\\Desktop\\prakt13\\calc2\\Lab13\\miheev\\trpo_13\\trpo_13.csproj",
+        "packagesPath": "C:\\Users\\307-11\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\307-11\\Desktop\\prakt13\\calc2\\Lab13\\miheev\\trpo_13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\307-12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\307-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
