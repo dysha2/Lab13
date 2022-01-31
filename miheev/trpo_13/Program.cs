@@ -32,4 +32,5 @@ int InputB()
         Console.WriteLine("Введите целое число");
     } while (true);
 }
+int Addition(int a, int b) => a + b;
 PrintMenu();
