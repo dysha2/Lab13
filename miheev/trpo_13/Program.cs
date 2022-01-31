@@ -33,4 +33,5 @@ int InputB()
     } while (true);
 }
 int Addition(int a, int b) => a + b;
+int Subtraction(int x, int y) => x - y;
 PrintMenu();
